@@ -50,5 +50,7 @@ public abstract class Cat {
         isNeutered = true;
     }
 
+    public abstract void meow();
+
 
 }
